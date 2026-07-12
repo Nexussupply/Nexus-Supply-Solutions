@@ -226,3 +226,39 @@ footer p{
     height:50px;
   }
 }
+/* ===================== PARTNER ===================== */
+
+.partner{
+
+    padding:80px 10%;
+    text-align:center;
+
+}
+
+.partner-content{
+
+    max-width:750px;
+    margin:auto;
+
+}
+
+.partner-content p{
+
+    margin:25px 0;
+
+}
+
+.partner-content ul{
+
+    list-style:none;
+    padding:0;
+    margin:30px 0;
+
+}
+
+.partner-content li{
+
+    margin:12px 0;
+    font-size:1.05rem;
+
+}
