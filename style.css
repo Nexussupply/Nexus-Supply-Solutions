@@ -262,3 +262,18 @@ footer p{
     font-size:1.05rem;
 
 }
+.partner-email{
+
+    margin-top:35px;
+    font-size:0.95rem;
+    color:#555;
+    line-height:1.7;
+
+}
+
+.partner-email strong{
+
+    color:#0A5C99;
+    font-weight:600;
+
+}
