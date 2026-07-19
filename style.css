@@ -277,3 +277,12 @@ footer p{
     font-weight:600;
 
 }
+.partner-email a{
+color:inherit;
+text-decoration:none;
+font-weight:bold;
+}
+
+.partner-email a:hover{
+text-decoration:underline;
+}
